@@ -166,7 +166,7 @@ This dashboard helps answer critical business questions:
 > Replace with your dashboard screenshot.
 
 ```text
-Images/Dashboard Overview.png
+Images/Dashboard_overview.jpg
 ```
 
 ---
