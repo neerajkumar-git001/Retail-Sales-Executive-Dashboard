@@ -183,7 +183,7 @@ Retail-Sales-Performance-Dashboard/
 │   └── Store.xlsx
 │
 ├── Images/
-│   ├── Dashboard Overview.png
+│   ├── Dashboard Prerview.png
 │   ├── KPI Cards.png
 │   ├── Sales Trend.png
 │   ├── Regional Analysis.png
