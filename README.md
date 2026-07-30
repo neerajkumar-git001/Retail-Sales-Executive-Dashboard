@@ -2,7 +2,6 @@
 
 > A business-focused analytics solution that delivers actionable insights into sales performance, customer behavior, and regional trends, helping decision-makers improve profitability and accelerate business growth.
 
-
 ---
 
 # 📌 Executive Summary
