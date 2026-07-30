@@ -1,6 +1,6 @@
 # 📊 Retail Sales Performance & Executive Analytics Dashboard
 
-> A Business Intelligence solution that transforms retail sales data into actionable insights, enabling executives and business managers to make faster, data-driven decisions through interactive analytics.
+> A business-focused analytics solution that delivers actionable insights into sales performance, customer behavior, and regional trends, helping decision-makers improve profitability and accelerate business growth.
 
 
 ---
