@@ -7,9 +7,7 @@
 
 # 📌 Executive Summary
 
-Modern businesses generate large volumes of sales data, but manual reporting often delays decision-making and limits visibility into overall business performance.
-
-This project delivers an interactive Executive Analytics Dashboard that centralizes sales, profitability, customer, and regional performance into a single view, enabling leadership to monitor KPIs, identify growth opportunities, and make informed business decisions.
+Sustainable business growth depends on making timely, data-driven decisions. This project transforms retail sales data into strategic business intelligence, enabling leaders to identify revenue opportunities, optimize profitability, understand customer behavior, and drive long-term business growth through actionable insights.
 
 ---
 
