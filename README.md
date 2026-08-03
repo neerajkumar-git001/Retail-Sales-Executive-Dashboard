@@ -272,8 +272,11 @@ If you have ideas to enhance the dashboard or documentation, you can:
 
 Your feedback helps make this project more valuable for the Business Intelligence community.
 
-
 ---
+
+
+
+
 ### Connect With Me
 
 * **GitHub:** https://github.com/neerajkumar-git001
