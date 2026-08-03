@@ -71,7 +71,6 @@ The dashboard enables management to:
 
 ---
 
-
 # 💼 Executive Business Value
 
 Designed for executive decision-makers, this dashboard enables organizations to:
@@ -275,9 +274,6 @@ If you have ideas to enhance the dashboard or documentation, you can:
 Your feedback helps make this project more valuable for the Business Intelligence community.
 
 ---
-
-
-
 
 ### Connect With Me
 
