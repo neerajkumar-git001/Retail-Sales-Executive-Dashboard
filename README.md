@@ -4,6 +4,8 @@
 
 ---
 
+
+
 # 📌 Executive Summary
 
 Sustainable business growth depends on making timely, data-driven decisions. This project transforms retail sales data into strategic business intelligence, enabling leaders to identify revenue opportunities, optimize profitability, understand customer behavior, and drive long-term business growth through actionable insights.
