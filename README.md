@@ -1,16 +1,16 @@
-# 📊 Retail Sales Performance & Executive Analytics Dashboard
+#  Retail Sales Performance & Executive Analytics Dashboard
 
 > A business-focused analytics solution that delivers actionable insights into sales performance, customer behavior, and regional trends, helping decision-makers improve profitability and accelerate business growth.
 
 ---
 
-# 📌 Executive Summary
+#  Executive Summary
 
 Sustainable business growth depends on making timely, data-driven decisions. This project transforms retail sales data into strategic business intelligence, enabling leaders to identify revenue opportunities, optimize profitability, understand customer behavior, and drive long-term business growth through actionable insights.
 
 ---
 
-# 🚨 Business Problem
+#  Business Problem
 
 Traditional reporting creates several business challenges:
 
@@ -26,7 +26,7 @@ These limitations reduce operational efficiency and delay strategic decisions.
 ---
 
 
-# 🎯 Business Objectives
+#  Business Objectives
 
 The dashboard was designed to:
 
@@ -40,7 +40,7 @@ The dashboard was designed to:
 
 ---
 
-# 📈 Estimated Business Impact
+#  Estimated Business Impact
 
 | Business Area | Before Dashboard | After Dashboard | Estimated Improvement |
 |---------------|-----------------:|----------------:|----------------------:|
@@ -57,7 +57,7 @@ The dashboard was designed to:
 
 ---
 
-# 🚀 Business Growth Opportunities
+#  Business Growth Opportunities
 
 The dashboard enables management to:
 
@@ -71,7 +71,7 @@ The dashboard enables management to:
 
 ---
 
-# 💼 Executive Business Value
+#  Executive Business Value
 
 Designed for executive decision-makers, this dashboard enables organizations to:
 
@@ -87,23 +87,23 @@ Designed for executive decision-makers, this dashboard enables organizations to:
 
 ---
 
-# 📊 Key Performance Indicators (KPIs)
+#  Key Performance Indicators (KPIs)
 
-- 💰 Total Sales
-- 💵 Total Profit
-- 📦 Total Orders
-- 📊 Total Quantity Sold
-- 📉 Profit Margin
-- 🛒 Average Order Value (AOV)
-- 📈 Sales Growth %
-- 💹 Profit Growth %
-- 🌍 Regional Revenue
-- 👥 Customer Performance
-- 🔄 Sales Funnel Metrics
+-  Total Sales
+-  Total Profit
+-  Total Orders
+-  Total Quantity Sold
+-  Profit Margin
+-  Average Order Value (AOV)
+-  Sales Growth %
+-  Profit Growth %
+-  Regional Revenue
+-  Customer Performance
+-  Sales Funnel Metrics
 
 ---
 
-# ❓ Business Questions Answered
+#  Business Questions Answered
 
 This dashboard helps answer critical business questions:
 
@@ -120,7 +120,7 @@ This dashboard helps answer critical business questions:
 
 ---
 
-# 📊 Dashboard Features
+# Dashboard Features
 
 ### Executive Dashboard
 
@@ -157,7 +157,7 @@ This dashboard helps answer critical business questions:
 
 ---
 
-# 🖼 Dashboard Preview
+# Dashboard Preview
 
 ## Executive Dashboard
 
@@ -166,7 +166,7 @@ The dashboard provides executives and business managers with a centralized view 
 ![Retail Sales Executive Dashboard](Images/Dashboard_preview.jpg)
 ---
 
-# 📂 Repository Structure
+#  Repository Structure
 
 ```text
 Retail-Sales-Performance-Dashboard/
@@ -202,7 +202,7 @@ Retail-Sales-Performance-Dashboard/
 ---
 
 
-# 📈 Expected Business Results
+#  Expected Business Results
 
 | Business Objective | Expected Improvement |
 |--------------------|---------------------:|
@@ -216,7 +216,7 @@ Retail-Sales-Performance-Dashboard/
 
 ---
 
-# 💡 Skills Demonstrated
+#  Skills Demonstrated
 
 ### Business Skills
 
@@ -240,7 +240,7 @@ Retail-Sales-Performance-Dashboard/
 
 ---
 
-# 📄 Dataset Information
+#  Dataset Information
 
 | Attribute | Details |
 |-----------|---------|
@@ -253,13 +253,13 @@ Retail-Sales-Performance-Dashboard/
 ---
 
 ---
-## 📥 Download Power BI Dashboard
+##  Download Power BI Dashboard
 
-[📊 Retails Sales Executive Dashboard](./Dashboard/Retails_Sales_Executive_Dashboard.pbix)
+[ Retails Sales Executive Dashboard](./Dashboard/Retails_Sales_Executive_Dashboard.pbix)
 
 ---
 
-# 🤝 Feedback & Contributions
+#  Feedback & Contributions
 
 Constructive feedback and contributions are always welcome.
 
